@@ -22,13 +22,13 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav ml-auto">
-				<a class="nav-item nav-link" href="#"
+				<a class="nav-item nav-link" href="register"
 					style="color: white; margin: 0 15px 0 10px; font-size: 18px;" onmouseover="this.style.color='#d3f911'" onmouseout="this.style.color='white'">新規利用者登録</a>
 				<a class="nav-item nav-link" href="#"
 					style="color: white; margin: 0 15px 0 10px; font-size: 18px;" onmouseover="this.style.color='#d3f911'" onmouseout="this.style.color='white'">自身の利用者情報を編集する</a>
 				<a class="nav-item nav-link" href="#"
 					style="color: white; margin: 0 15px 0 10px; font-size: 18px;" onmouseover="this.style.color='#d3f911'" onmouseout="this.style.color='white'">利用者を探す</a>
-				<a class="nav-link" href="#"
+				<a class="nav-link" href="home"
 					style="color: white; margin: 0 15px 0 10px; font-size: 18px;" onmouseover="this.style.color='#d3f911'" onmouseout="this.style.color='white'">利用者認証</a>
 			</div>
 		</div>
